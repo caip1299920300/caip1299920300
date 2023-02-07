@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/static/v1?label=Program&message=Python&color=blue"/>
   <a href="https://blog.csdn.net/caip12999203000"><img src="https://img.shields.io/static/v1?label=Blog&message=CSDN&color=red"/></a>
   <a href="https://space.bilibili.com/1140698155"><img src="https://img.shields.io/static/v1?label=Video&message=Bilibili&color=cyan"/></a>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/wangzirui32&right_color=red" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/caip1299920300&right_color=red" />
 </p>
   
  <img src="https://github-profile-trophy.vercel.app/?username=caip1299920300" />
